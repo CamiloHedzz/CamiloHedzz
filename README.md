@@ -35,7 +35,7 @@
 ***About me ....***
 
 
-✔ I'm currently developing a rocket (I hope to put it into orbit by the end of next year)
+✔ I'm currently developing a rocket (I hope to put it into orbit by the end of next year)<br>
 ✔ I’m currently learning about **deep learning and predictice models**<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
