@@ -34,12 +34,14 @@
 
 ***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
+
+✔ I'm currently developing a rocket (I hope to put it into orbit by the end of next year)
+✔ I’m currently learning about **deep learning and predictice models**<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+
+
+<br><br><br><br>
 
 
 
